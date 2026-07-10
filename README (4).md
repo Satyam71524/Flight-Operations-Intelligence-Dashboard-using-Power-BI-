@@ -54,11 +54,6 @@ The dashboard includes the following key visualizations:
 MS in Business Analytics | University at Buffalo  
 Data Enthusiast | Power BI | Python | SQL | Tableau  
 
-## 🔗 Connect
-
-[LinkedIn](https://www.linkedin.com/in/sattytough17/)  
-[GitHub](https://github.com/Satyam040300)
-
 ---
 
 > 💡 *This dashboard helps airlines and operations teams to make data-informed decisions for improving profitability, customer satisfaction, and overall operational efficiency.*
